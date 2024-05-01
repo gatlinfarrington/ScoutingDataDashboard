@@ -21,7 +21,7 @@ To set up and run the client:
    npm start
 The application will be available at 'http://localhost:3000'
 
-### Scouting System Server ('Scouting-System-Server')
+### Scouting System Server (`Scouting-System-Server`)
 The server is built with Kotlin using the ktor framework. It handles API rrequests fromt he client and interacts with PostgresSQL database to fetch or update data.
 
 ####Running the server
@@ -34,7 +34,7 @@ To launch the server:
    ./gradlew run
 The server will start and lsiten for requests on its configured port
 
-### Scouting System Worker ('scouting-system-worker')
+### Scouting System Worker (`scouting-system-worker`)
 The worker consists of two Python scripts:
 
 - Setup.py fills the database with initial data such as team names, number, and the competition schedule. You will need to modify this script to use your own API key and ensure it is pulling data from the event you are participating at
