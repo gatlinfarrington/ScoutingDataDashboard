@@ -1,0 +1,208 @@
+1;2375;R; Lee H;0;0;F;F;F;F;F;Right;T;0;0;0;1;No Attempt;0;T;got hit badly
+2;7419;B;Lee H;0;0;F;F;F;F;F;Left;F;0;0;3;3;Parked;0;F;
+1;2662;R;Levi W;0;0;F;F;F;F;F;Left;F;2;1;0;0;No Attempt;0;F;The driving was fairly jerky:/
+"2;9059;R;Levi W.;1;0;F;F;F;F;F;Right;F;3;0;0;0;No Attempt;0;F;Could tip when the arm is extended, they made a failed attempt to climb in the endgame"
+"1;8;B;Eric M.;2;0;F;F;F;F;F;Center;F;0;0;2;4;No Attempt;0;F;Front right got stuck on note, resulted in penalty"
+1;6413;*;Robokrew2662;0;1;T;T;F;F;F;Left;F;0;0;0;0;*;0;F;
+2;498;*;Robokrew2662;0;0;T;F;F;F;F;Center;T;3;0;3;1;Parked;0;F;
+1;9777;*;robotics 2662;2;0;T;F;F;F;F;Center;F;0;0;5;1;Single;1;F;
+2;3179;*;robotics 2662;0;0;F;F;F;F;F;Center;F;0;0;9;1;Parked;0;F;
+1;6479;R;Cassidy - 2662;0;0;F;F;F;F;F;Left;T;0;0;0;0;Harmony x1;0;F;Defended
+2;3853;R;Cassidy - 2662;0;0;T;T;F;F;F;Right;T;0;0;3;2;Harmony x1;0;F;
+"2;5026;B;Eric M.;4;0;T;F;F;F;F;Center;T;1;0;0;0;No Attempt;0;F;shot 2 notes outside the field, one hit a ref, the other went into the stands."
+3;2486;B;Eric M.;0;0;F;F;F;F;F;Right;F;2;0;3;0;No Attempt;0;F;
+3;1165;B;Lee H;1;0;F;F;F;F;F;Center;T;0;0;3;0;Single;0;F;
+3;2478;R;Levi W.;0;0;F;F;F;F;F;Left;F;4;0;4;0;Parked;0;F;CLEAN runs back and forth
+3;698;*;robotics 2662;0;0;F;F;F;F;F;Right;F;3;1;0;0;Single;0;F;
+3;3019;*;Robokrew2662;1;0;F;F;F;F;F;Left;F;2;0;1;0;No Attempt;0;F;
+3;9432;R;Emily Team 2662;2;0;F;F;F;F;F;Center;T;0;1;5;0;Parked;0;F;Accurate and good coop with team.
+4;4183;B;Lee H;2;0;F;F;F;F;F;*;T;0;0;1;0;*;0;F;Defense after shot
+"4;9704;B;Eric M.;0;0;F;F;F;F;F;Right;T;0;0;0;0;No Attempt;0;F;Defense bot, blocked several shots instead of scoring. overall close match"
+4;294;R;Levi W;1;0;F;F;F;F;F;Right;T;3;0;2;3;Single;0;F;the shooter dispensed a note inside of the robot frame at one point
+4;5539;B;Robokrew2662:erika;0;0;F;F;F;F;F;*;F;0;0;0;0;*;0;F;Robot was taken off field.
+4;5449;R;robotics 2662 bethelehem;2;0;F;F;F;F;F;Center;F;0;0;2;1;Harmony x1;0;F;
+"4;7755;R;Emily Team 2662;0;0;F;F;F;F;F;Left;F;0;0;0;1;Harmony x1;0;F;Didn't move to pick up notes or scored after initial miss, seemed to have issues positioning at intake."
+5;1726;B;Eric M.;1;0;F;F;F;F;F;Center;F;1;0;0;1;Single;0;F;
+5;3577;B;Lee H;0;0;F;F;F;F;F;Left;F;0;0;0;0;*;0;F;Jittery
+"5;3944;R;Levi W;0;0;F;F;F;F;F;Right;F;0;0;4;0;Parked;0;F;Driver tended to stop and go, very nice robot"
+5;7703;B;Robokrew2662:erika;0;0;T;F;F;F;F;Left;T;0;0;1;1;Parked;0;F;
+5;670;R;robotics 2662 bethelehem;2;0;F;F;F;F;F;Center;T;6;1;3;1;Parked;0;F;
+6;8087;B;Eric M.;0;0;F;F;F;F;F;*;F;0;0;0;0;*;0;F;Team absent
+6;2647;R;Levi W;0;0;F;F;F;F;F;*;F;0;0;0;0;*;0;F;Team 2647 didn't participate in this match:(
+6;6833;R;Emily Team 2662;0;0;F;F;F;F;F;Left;F;0;0;0;0;*;0;T;Played solid defence but got disabled shortly after start of teleop.
+6;7645;R;robotics 2662 bethelehem;0;0;F;F;F;F;F;Right;T;2;0;0;0;No Attempt;0;T;Robot stopped moving twice during majority of the match
+6;6922;B;Robokrew2662:erika;0;1;F;F;F;F;F;Right;F;0;0;0;1;Parked;0;T;robot stopped moving
+6;6352;B;Lee H;0;0;F;F;F;F;F;*;T;1;0;0;0;Single;0;F;
+"7;3187;R;Levi W;0;0;F;F;F;F;F;Left;T;0;0;0;0;No Attempt;0;F;only played defense, mildly interrupted the blue team"
+7;4146;B;Lee H;0;0;F;F;F;F;F;*;F;2;0;2;2;No Attempt;0;F;
+7;698;B;Robokrew2662:erika;0;0;T;F;F;F;F;Center;T;4;0;0;2;Single;0;F;
+7;1212;R;robotics 2662 bethelehem;0;0;F;F;F;F;F;Center;T;3;2;2;0;No Attempt;1;F;
+"7;8848;R;Emily Team 2662;0;0;F;F;F;F;F;Right;T;0;0;8;2;Parked;0;F;May have scored in auto, lost a piece but remained operational."
+7;1828;B;Eric M.;0;0;F;F;F;F;F;Left;F;0;0;2;3;Parked;0;F;last Shot blocked by 698 who is Alliance partner
+7;4146;B;Lee H;0;0;F;F;F;F;F;*;F;2;0;2;2;No Attempt;0;F;
+8;2478;R;robotics 2662 bethelehem;0;0;F;F;F;F;F;Right;F;2;2;3;1;Parked;0;F;
+8;2486;R;Emily Team 2662;0;0;F;F;F;F;F;Left;T;0;1;5;3;Parked;0;F;Struggled with amp scoring.
+8;7755;B;Robokrew2662:erika;0;0;F;F;F;F;F;Right;F;0;0;3;0;Single;0;F;
+8;5539;B;Lee;0;0;F;F;F;F;F;Right;T;0;0;0;0;No Attempt;0;T;
+8;8;B;Eric M.;3;0;T;F;F;F;F;Center;T;0;0;1;2;No Attempt;0;F;
+8;5026;R;Levi W;1;0;F;F;F;F;F;Center;T;0;0;0;0;No Attempt;0;T;The robot quickly lost connection and was disabled for a majority of the match
+9;7419;B;Robokrew2662:erika;0;0;F;F;F;F;F;Left;F;0;0;2;2;Parked;0;F;
+9;1726;R;robotics 2662 bethelehem;2;0;F;F;F;F;F;Right;T;1;0;1;1;Single;0;F;
+9;5449;R;Emily Team 2662;1;0;F;F;F;F;F;Left;F;0;0;5;1;Single;0;F;
+"9;6413;R;Levi W;2;0;F;F;F;F;F;Center;T;5;0;5;2;Parked;0;F;Very good runs across the field, the framewwas stable"
+"9;3577;B;Eric M.;0;0;F;F;F;F;F;Right;F;0;0;0;0;*;0;F;No auto movement or action, consistent drive train wobbling."
+9;3019;B;Lee H;0;0;F;F;F;F;F;Left;F;0;0;0;0;*;0;T;
+10;6352;B;Robokrew2662:erika;1;0;F;F;F;F;F;Center;T;4;0;4;0;Harmony x1;0;F;
+"10;9059;R;Emily Team 2662;0;0;F;F;F;F;F;Left;F;3;0;3;0;Parked;0;F;Bugged auto, shooting mechanism moved but wouldn't shoot note."
+10;294;B;Lee H;0;0;F;F;F;F;F;Left;T;0;0;6;2;Single;0;F;Only missing longshots
+10;2662;B;Eric M.;0;0;F;F;F;F;F;Right;F;2;0;0;1;Parked;0;F;
+10;3944;R;Levi W;2;0;F;F;F;F;F;Center;T;0;0;3;0;Single;0;F;Shooter takes. long time to dispense notes
+11;9432;R;alexis;4;0;F;F;F;F;F;Center;F;3;0;6;0;Parked;0;F;
+#REF!
+11;3853;B;Aiden M;1;0;F;F;F;F;F;Right;T;0;0;7;0;Single;0;F;
+11;8848;R;Ram V.;1;0;T;F;F;F;F;Left;F;0;0;0;3;Parked;0;F;
+11;7645;R;Sinjin O.;1;0;F;F;F;F;F;Right;F;1;0;0;0;Single;0;F;
+#REF!
+#REF!
+#REF!
+12;1212;B;allison;1;0;F;F;F;F;F;*;F;1;0;1;2;Parked;0;F;was having trouble moving half way through match
+12;1828;B;Matthew;0;0;F;F;F;F;F;*;F;0;0;3;1;Parked;0;F;
+12;2375;B;Aiden M;0;0;F;F;F;F;F;Left;T;4;2;0;0;Parked;0;F;
+12;2429;R;Ram V.;0;0;F;T;F;F;F;Left;F;5;0;1;1;Parked;0;F;
+12;4183;R;Sinjin O.;1;0;F;F;F;F;F;Center;F;0;0;7;0;Parked;0;F;
+12;1828;B;Matthew;0;0;F;F;F;F;F;*;F;0;0;3;1;Parked;0;F;
+13;7703;B;allison;1;0;F;F;F;F;F;Center;F;0;0;1;0;Parked;0;F;
+13;9777;R;Ram V.;0;0;F;F;F;F;F;Center;F;0;0;5;3;Parked;0;F;
+13;1165;R;Sinjin O.;1;0;F;F;F;F;F;Left;T;0;0;8;2;Harmony x1;0;F;
+"13;6479;B;Aiden M;0;0;F;F;F;F;F;Center;T;0;0;0;4;No Attempt;0;T;Was disabled near the end of the match, couldn't make a single shot"
+14;6833;R;Sinjin O.;0;0;F;F;F;F;F;Left;F;0;0;0;0;*;0;F;Defense. couldn't drive
+14;4146;B;Aiden M;1;0;F;F;F;F;F;Left;T;0;0;0;0;Single;0;F;Their shooter looked like it broke
+14;9704;R;Kapil I;0;0;F;F;F;F;F;Left;T;0;0;0;0;No Attempt;0;F;
+"14;6413;R;Emily Team 2662;0;0;F;F;F;F;F;Right;T;0;0;4;0;Parked;0;F;Seemed to have mobility issues, movement was janky and a little slow."
+14;2486;B;Matthew;1;0;F;F;F;F;F;Center;T;3;0;0;1;Single;0;F;
+14;498;B;allison;0;0;F;F;F;F;T;Right;F;0;0;3;6;No Attempt;0;F;Very effective with pick up
+14;1726;*;em;0;0;F;F;F;F;F;Left;T;0;1;0;0;*;0;F;Trouble driving
+15;8087;B;Aiden M;0;0;F;F;F;F;F;Center;T;0;0;2;1;Single;0;F;
+15;7645;R;Sinjin O.;1;0;F;F;F;F;F;Left;F;5;0;0;2;Harmony x1;0;F;
+15;3853;R;Kapil I;0;0;F;F;F;F;F;Center;T;0;0;8;2;Single;0;F;
+15;7755;R;Ram V.;0;0;F;F;F;F;F;Right;F;0;0;2;3;Parked;0;F;
+15;5539;B;Emily Team 2662;0;0;F;F;F;F;F;Left;T;0;0;0;0;Parked;0;F;No shooting mechanism. Pushed notes towards team members.
+#REF!
+16;3019;B;allison;1;0;F;F;F;F;T;Left;F;3;0;3;0;Parked;0;F;
+16;8;R;?;0;0;F;F;F;F;F;Left;F;2;0;6;2;Parked;0;F;
+16;6352;R;Ram V.;0;0;F;F;F;F;F;Right;F;3;0;4;0;Single;0;F;
+16;5026;R;Sinjin O.;0;0;F;F;F;F;F;Left;F;0;0;5;1;Parked;0;F;
+16;294;B;Aiden M;3;0;F;F;F;F;F;Center;T;0;0;0;0;Single;0;F;
+17;6922;B;Matthew;0;0;F;F;F;F;F;Right;F;0;0;0;0;No Attempt;0;F;
+17;3577;B;Aiden M;0;0;F;F;F;F;F;Center;F;0;0;0;0;Parked;0;F;
+17;9432;B;allison;4;0;F;F;F;F;F;Left;T;4;0;2;1;Parked;0;F;
+17;3187;R;Ram V.;0;0;F;F;F;F;F;Left;F;0;0;0;0;Parked;0;F;
+17;9777;R;Sinjin O.;1;0;F;F;F;F;F;Center;F;0;0;6;2;Single;0;F;
+17;698;R;Kapil I;1;0;F;F;F;F;F;*;T;1;0;2;0;No Attempt;0;F;
+18;498;B;?;1;0;F;F;F;F;F;Right;T;4;0;5;1;No Attempt;0;F;
+18;2429;B;allison;1;0;F;F;F;F;F;Left;F;1;0;3;0;No Attempt;0;F;
+18;9704;B;Aiden M;0;0;F;F;F;F;F;Center;T;0;0;0;0;No Attempt;0;F;
+18;2647;R;Cassidy - 2662;0;0;F;F;F;F;F;Right;T;0;0;0;0;Parked;0;F;Difficulty driving
+18;8848;R;em;0;0;F;F;F;F;F;Left;T;2;0;1;0;*;0;F;Note stuck. not strong against defense
+19;9059;B;Kapil I;1;0;F;F;F;F;F;Right;T;4;0;0;0;Parked;0;F;
+19;2478;R;Sinjin O.;0;0;F;F;F;F;F;Left;F;2;1;4;2;Parked;0;F;
+19;2375;R;Ram V.;0;0;F;F;F;F;F;Left;F;6;1;0;0;Parked;0;F;
+19;3944;R;Lee H;1;0;F;F;F;F;F;Center;T;0;0;0;0;Single;0;F;
+19;9059;B;Levi W;0;0;F;F;F;F;F;Right;T;4;0;0;0;Parked;0;F;The bumper began to fall off
+19;5449;B;Aiden M;1;0;F;F;F;F;F;Left;T;0;0;1;4;Single;0;F;
+20;4183;B;Kit E;1;0;F;F;F;F;F;Right;F;0;0;10;0;Parked;0;F;Very accurate shooter for the speaker but got note stuck in bot
+20;3179;B;Abel T;1;0;F;F;F;F;F;Left;F;4;0;0;0;Single;0;F;
+"20;670;B;El K.;0;0;F;F;F;F;F;Center;F;0;0;0;1;No Attempt;0;F;Seemed to get two notes stuck in its shooter, causing it to play defense"
+20;2662;R;Lee H;1;0;F;F;F;F;F;Left;T;2;0;0;0;Single;0;F;
+20;4146;R;Eric M.;1;0;F;F;F;F;F;Right;F;0;0;1;4;Single;0;F;Possible shooter malfunction
+20;1165;R;Levi W;1;0;F;F;F;F;F;Center;F;0;0;6;2;Parked;0;F;
+21;6833;B;Levi 2;0;0;F;F;F;F;F;Left;F;0;0;0;0;No Attempt;0;F;They disrupted the opponents shots fairly well
+21;5539;B;Kapil I;0;0;F;F;F;F;F;Center;T;0;0;0;0;Parked;0;F;
+21;1212;R;Ram V.;1;0;F;F;F;F;F;Right;F;3;0;0;4;Parked;0;F;
+21;6922;B;Aiden M;0;0;F;F;F;F;F;Right;F;0;0;0;0;No Attempt;0;T;Wasnt on the field
+21;7703;R;Lee H;0;0;F;F;F;F;F;Left;T;0;0;0;0;Parked;0;F;
+21;8;R;Sinjin O.;0;0;F;F;F;F;F;Center;F;0;1;8;3;Parked;0;F;
+22;1726;R;Lee H;0;0;F;F;F;F;F;Right;T;2;0;0;0;Single;0;F;
+22;1828;R;Eric M.;0;0;F;F;F;F;F;Right;F;0;0;2;1;No Attempt;0;F;
+22;698;B;El K. ;2;0;F;F;F;F;F;Center;F;0;0;2;2;Single;0;F;
+22;7755;R;Levi W;0;0;F;F;F;F;F;Left;F;0;0;2;1;Single;0;F;
+22;498;B;Kit E;0;0;F;F;F;F;F;Right;F;0;0;0;0;*;0;T;Robot never moved.
+22;6479;B;Abel T;0;0;F;F;F;F;F;Left;F;0;0;2;3;Single;0;F;
+23;9704;B;El K.;0;0;F;F;F;F;F;Right;T;0;0;0;0;*;0;F;
+23;8848;B;Kit E;1;0;F;F;F;F;F;Center;T;4;2;0;0;Parked;0;F;
+23;9777;B;Abel T;0;0;F;F;F;F;F;Left;F;0;0;6;0;Single;0;F;
+23;2486;R;Lee H;0;0;F;F;F;F;F;Left;T;3;0;0;0;No Attempt;0;F;
+"23;7645;R;Eric M.;0;0;F;F;F;F;F;Right;F;0;0;0;0;Single;0;F;Could intake, could not shoot"
+23;6352;R;Levi W;0;0;F;F;F;F;F;Center;T;1;0;4;1;Single;0;F;Played around defense well
+24;2647;R;Eric M.;0;0;F;F;F;F;F;*;F;0;0;0;0;*;0;F;Did not attend match
+24;3179;R;Lee H;0;0;F;F;F;F;F;*;F;4;0;2;1;Parked;0;F;
+24;5026;B;El K.;1;0;F;F;F;F;F;Center;T;1;1;3;1;Parked;0;F;
+24;4183;B;Kit E;3;0;F;F;F;F;F;Center;T;0;0;5;0;*;0;F;There was a wire dragging out of their robot the whole match
+24;6413;B;Abel T;1;0;F;F;F;F;F;Left;F;2;0;4;0;No Attempt;0;F;
+"24;9432;R;Levi W;3;0;F;F;F;F;F;Right;T;3;0;4;0;Parked;0;F;quick, aggressive driving"
+25;9059;B;Abel T;0;0;F;F;F;F;F;Right;F;0;0;1;1;Parked;0;F;
+25;2429;B;El K.;0;0;F;F;F;F;F;Left;F;0;1;0;0;Parked;0;F;
+25;6833;B;Kit E;0;0;F;F;F;F;F;Center;F;0;0;0;0;Single;0;F;Defense bot with climbers
+25;3577;R;Levi W;0;0;F;F;F;F;F;Left;F;0;0;0;0;Parked;0;F;Disrupted blue alliance scoring in amp and speaker
+"25;670;R;Eric M.;2;0;T;F;F;F;F;Center;T;4;0;7;0;Parked;0;F;Accurate shooter, consistent drive train"
+25;2662;R;Lee H;0;0;F;F;F;F;F;Left;F;3;0;0;0;Parked;0;F;
+26;2375;B;Abel T;0;0;F;F;F;F;F;Right;F;2;1;0;0;No Attempt;0;F;
+26;3019;B;Kit E;1;0;F;F;F;F;F;Center;F;2;0;0;0;Parked;0;F;
+"26;5449;B;El K.;2;0;F;F;F;F;F;Left;F;0;0;3;1;Single;0;F;adaptable, good at both defense and offense"
+"26;3187;R;Eric M.;0;0;F;F;F;F;F;Right;T;0;0;0;0;Parked;0;F;Drive train bot, no swerve"
+26;1165;R;Lee H;1;0;F;F;F;T;F;Right;F;1;0;0;0;Single;0;F;
+"26;294;R;Levi W;3;0;F;F;F;F;F;Right;T;5;0;1;2;Single;0;F;Had a high and low shooter, allowing them to shoot over defending robots. the high shooter is not as reliable however"
+27;4146;B;El K.;0;0;F;F;F;F;F;Left;F;2;0;4;2;Parked;0;F;
+27;1212;B;Kit E;0;0;F;F;F;F;F;Right;T;5;0;1;2;No Attempt;0;F;
+27;7703;R;Eric M.;0;0;F;F;F;F;F;Left;F;0;0;0;0;*;0;T;Non functional shooter and intake
+27;2478;R;Levi W;1;0;F;F;F;F;F;Right;F;4;1;5;0;Parked;0;F;
+27;7419;R;Lee H;0;0;F;F;F;F;F;Center;T;0;0;5;0;Parked;0;F;
+27;8087;B;Abel T;0;0;F;F;F;F;F;Center;F;0;0;1;2;Single;0;F;Bot broke its main shooter on impact with another
+27;3944;B;El K.;0;0;F;F;F;F;F;Center;F;0;0;0;0;*;0;T;
+28;498;R;Eric M.;0;0;F;F;F;F;T;Right;T;3;0;6;1;Parked;0;F;
+28;6413;R;Lee H;0;0;F;F;F;F;F;Center;T;4;0;5;0;Parked;0;F;
+28;698;B;Abel T;0;0;F;F;F;F;F;Left;F;1;0;5;0;No Attempt;0;F;
+28;2647;B;Kit E;0;0;F;F;F;F;F;Right;F;0;0;0;0;*;0;F;below average Defense bot
+"28;3853;R;Levi W;1;0;F;F;F;F;F;Right;F;0;0;5;2;Single;0;F;The shooter is at a fixed angle, making scoring consistent when the bot is Aligned with the edge of the speaker"
+29;8848;B;El K.;0;0;F;F;F;F;F;Left;F;4;0;2;1;Parked;0;F;
+29;5026;B;Abel T;1;0;F;F;F;F;F;Center;F;0;0;5;1;Parked;0;F;
+29;1828;B;Kit E;0;0;F;F;F;F;F;Center;T;0;0;0;3;Parked;0;F;Shooter too weak to shoot high enough into the speaker
+29;9777;R;Eric M.;1;0;F;F;F;F;F;Center;F;0;0;6;0;Single;0;F;Triple hang
+29;6833;R;Levi W;0;0;F;F;F;F;F;Left;F;0;0;0;0;Single;0;F;BILLBOARD BOT RAHHHH
+#REF!
+29;1726;R;Lee H;0;0;F;F;F;F;F;Left;T;1;0;0;0;Single;0;F;TRIPPLE HANG
+30;9059;B;Abel T;0;0;F;F;F;F;F;Left;F;2;0;2;2;Parked;0;F;
+30;6922;B;El K.;0;0;F;F;F;F;F;Right;F;0;0;0;1;*;0;F;Intake seemed to be damaged
+30;7645;B;Kit E;0;0;F;F;F;F;F;Center;T;0;0;0;0;Single;0;F;Played defense but I don't think that was their plan
+30;2429;R;Lee H;0;0;F;F;F;F;F;Right;F;1;0;2;2;No Attempt;0;F;
+30;3179;R;Eric M.;0;0;F;F;F;F;F;Center;F;0;0;0;0;No Attempt;0;F;
+30;3019;R;Levi W;0;0;F;F;F;F;F;Right;F;0;1;5;1;Parked;0;F;
+31;5448;B;Ram V.;1;0;F;F;F;F;F;Left;F;0;0;1;3;Single;0;F;defense bot at speaker
+31;2478;B;Sinjin o.;1;0;F;F;F;F;F;Center;F;7;1;0;0;Parked;0;F;
+31;1212;R;Marco P;1;0;F;F;F;F;F;*;F;0;1;3;2;Parked;0;F;
+31;2662;R;Matthew;0;0;F;F;F;F;F;Left;T;1;0;0;0;Parked;0;F;
+31;4146;B;allison;1;0;F;F;F;F;F;Right;F;0;1;3;1;Parked;0;F;
+31;9704;R;Cassidy - 2662;0;0;F;F;F;F;F;Right;T;0;0;0;1;Parked;0;F;Defended
+32;7755;B;Ram V.;0;0;F;F;F;F;F;Right;F;0;0;1;1;Single;0;F;
+32;3944;R;Cassidy - 2662;0;0;F;F;F;F;F;Right;F;0;0;0;0;Harmony x1;0;F;Defended
+32;6479;B;Sinjin O.;0;0;F;F;F;F;F;Right;T;0;0;0;5;Single;0;F;
+32;7419;R;?;1;0;F;F;F;F;F;Center;F;0;0;5;1;Parked;0;F;
+32;9432;B;allison;0;0;F;F;F;F;F;*;T;7;0;2;0;*;0;F;
+32;294;R;Marco P;1;0;F;F;F;F;F;*;F;2;0;6;1;Single;0;F;
+
+
+
+
+
+
+
+
+
+
+
+
+
+32;6479;B;Sinjin O.;0;0;F;F;F;F;F;Right;T;0;0;0;5;Single;0;F;
+32;7419;R;?;1;0;F;F;F;F;F;Center;F;0;0;5;1;Parked;0;F;
+32;9432;B;allison;0;0;F;F;F;F;F;*;T;7;0;2;0;*;0;F;
+32;294;R;Marco P;1;0;F;F;F;F;F;*;F;2;0;6;1;Single;0;F;
