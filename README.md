@@ -1,6 +1,6 @@
 # Scouting Data Dashboard
 
-The Scouting Data Dashboard is a comprehensive tool designed for FIRST Robotics Competition (FRC) teams to manage scouting data effectively. This project is divided into three main components: the client, the server, and the worker scripts.
+The Scouting Data Dashboard is a comprehensive tool designed for FIRST Robotics Competition (FRC) teams to manage scouting data effectively. This project is divided into three main components: the client, the server, and the worker scripts. This project was initially developed for Team 9432, but we are happy to open it up to the public, allowing other team's to modify it to work with their own Scouting Systems.
 
 ## Components
 
@@ -21,7 +21,7 @@ To set up and run the client:
    npm start
 The application will be available at 'http://localhost:3000'
 
-### Scouting System Server
+### Scouting System Server ('Scouting-System-Server')
 The server is built with Kotlin using the ktor framework. It handles API rrequests fromt he client and interacts with PostgresSQL database to fetch or update data.
 
 ####Running the server
@@ -34,7 +34,7 @@ To launch the server:
    ./gradlew run
 The server will start and lsiten for requests on its configured port
 
-### Scouting System Worker
+### Scouting System Worker ('scouting-system-worker')
 The worker consists of two Python scripts:
 
 - Setup.py fills the database with initial data such as team names, number, and the competition schedule. You will need to modify this script to use your own API key and ensure it is pulling data from the event you are participating at
@@ -58,3 +58,5 @@ The worker consists of two Python scripts:
 - The KTOR API should be modified to use an ORM, allowing for different teams to easily swap database systems
 - The API can be improved by serving more data, less frequently, and endpoints should be organized in controllers as the functionality grows.
 - The Client Application has a known issue where it does not work on safari, API requests are never properly received
+- Project naming shoudl be more consistent, Server proejct has each word capitalized, whereas other two proejcts are lowercase.
+- Adding a coding standard for each language is on the Radar for Team 9432, once these standards are implemented, formatting will change as is applicable.
