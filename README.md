@@ -26,7 +26,7 @@ The server is built with Kotlin using the ktor framework. It handles API rreques
 
 ####Running the server
 To launch the server:
-1. Navigate to the 'Scouting-System-Server' direcotry
+1. Navigate to the `Scouting-System-Server` directory
    ```bash
    cd Scouting-System-Server
 2. Run the server using gradle
@@ -60,3 +60,4 @@ The worker consists of two Python scripts:
 - The Client Application has a known issue where it does not work on safari, API requests are never properly received
 - Project naming shoudl be more consistent, Server proejct has each word capitalized, whereas other two proejcts are lowercase.
 - Adding a coding standard for each language is on the Radar for Team 9432, once these standards are implemented, formatting will change as is applicable.
+- All code should be commented and have improved documentation.
